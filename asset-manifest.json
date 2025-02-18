@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feb450d6.css",
+    "main.js": "/static/js/main.0435ab6b.js",
+    "static/js/453.17f3d5ed.chunk.js": "/static/js/453.17f3d5ed.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.75c77c9d4ad51be8b4e206cad81cd4c3.svg",
+    "static/media/howtoplay.jpg": "/static/media/howtoplay.dd144fbe99496981bacb.jpg",
+    "index.html": "/index.html",
+    "main.feb450d6.css.map": "/static/css/main.feb450d6.css.map",
+    "main.0435ab6b.js.map": "/static/js/main.0435ab6b.js.map",
+    "453.17f3d5ed.chunk.js.map": "/static/js/453.17f3d5ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb450d6.css",
+    "static/js/main.0435ab6b.js"
+  ]
+}
